@@ -1,0 +1,22 @@
+{
+  "telegram_bot_token": "8269425115:AAGQ-6MdrC0KBH2la3OgHboGB8rGwQXKqGg",
+  "admin": {
+    "user_id": 5439552241,
+    "username": "PladixOficial"
+  },
+  "free_mode": false,
+  "check_puzzle": false,
+  "proxy": {
+    "enabled": false,
+    "server": "",
+    "username": "",
+    "password": "",
+    "comment": "Proxy pago/manual - deixe enabled=false para usar proxies gratuitos automáticos"
+  },
+  "free_proxy": {
+    "enabled": true,
+    "auto_fetch": true,
+    "use_on_puzzle_only": true,
+    "comment": "Proxies gratuitos - ativados automaticamente quando detectar puzzle/captcha"
+  }
+}
