@@ -1,22 +1,20 @@
 {
-  "telegram_bot_token": "8269425115:AAGQ-6MdrC0KBH2la3OgHboGB8rGwQXKqGg",
+  "telegram_bot_token": "8461610558:AAG9_DipzDcqmWYmAbb-LucReBzsI4-t_bE",
   "admin": {
-    "user_id": 5439552241,
-    "username": "PladixOficial"
+    "user_id": 8191397359,
+    "username": "moonzeus"
   },
   "free_mode": false,
-  "check_puzzle": false,
+  "check_puzzle": true,
   "proxy": {
-    "enabled": false,
-    "server": "",
-    "username": "",
-    "password": "",
-    "comment": "Proxy pago/manual - deixe enabled=false para usar proxies gratuitos automáticos"
+    "enabled": true,
+    "server": "http://31.59.20.176:6754",
+    "username": "hyqgyxhf",
+    "password": "30z9ho40bxvp"
   },
   "free_proxy": {
-    "enabled": true,
-    "auto_fetch": true,
-    "use_on_puzzle_only": true,
-    "comment": "Proxies gratuitos - ativados automaticamente quando detectar puzzle/captcha"
+    "enabled": false,
+    "auto_fetch": false,
+    "use_on_puzzle_only": false
   }
 }
